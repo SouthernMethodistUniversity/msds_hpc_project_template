@@ -15,9 +15,6 @@ workflow.
   submitted to the queue system and then entire pipeline is run with
   each stage run on appropriate hardware with appropriately optimized
   software stacks.
-
-## Semester Project Details
-
 - The deliverable will be a ready to present slide deck in your GitHub
   repo, *i.e.* a job will be submitted on an SMU HPC cluster and then,
   sometime later with zero human interaction, a PDF presentation will
