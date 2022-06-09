@@ -29,7 +29,7 @@ workflow.
 
 ## Repository Structure
 
-- `bin`, executable scripts.
+- `bin`, Executable scripts.
 - `src`, Non-directly executable source code.
 - `data`, Datasets, where appropriate, and parameter files
 - `docs`, Workflow documentation and location of the final deliverable
